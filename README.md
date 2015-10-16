@@ -34,7 +34,7 @@ Then run crawlers:
 $(env) cd crawler && ./run_crawlers.sh
 ```
 
-Now you can make your database connection model interface in loader/modulers/model.py
+Now you can make your database connection model interface in loader/modules/model.py
 
 And finally load crawlers to database:
 
